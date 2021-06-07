@@ -1,0 +1,46 @@
+.fixed-table-pagination div.pagination .pagination {
+    margin: 0;
+}
+.pagination {
+    display: inline-block;
+    padding-left: 0;
+    margin: 20px 0;
+    border-radius: 4px;
+}
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.fresh-table[class*="full-color-"] .fixed-table-pagination {
+    color: #FFFFFF;
+}
+.fresh-table {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    color: #666666;
+}
+body {
+    font-family: "Roboto","Helvetica Neue","Open Sans",Arial,sans-serif;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
